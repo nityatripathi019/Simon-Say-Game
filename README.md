@@ -13,4 +13,4 @@ This project demonstrates the use of **DOM manipulation**, **event handling**, a
 
 ## 🖼️ Screenshot
 
-![Home Page](assets/Simon.png)
+![Home Page](assets/Simon.jpg)
